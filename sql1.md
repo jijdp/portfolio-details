@@ -1,9 +1,9 @@
 SQL command on MySQL
 
-1.Basic Create Database
+1. Basic Create Database
 ![image]()
 
-2.
+3.
 
 use HPlus;
 
