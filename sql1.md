@@ -1,6 +1,6 @@
 SQL command on MySQL
 1.Basic Create Database
-![image](https://user-images.githubusercontent.com/138129390/271964221-dc35acb4-d731-4cb0-a39e-ac9ffbeac0d0.png)
+![image]()
 
 2.
 
@@ -61,3 +61,9 @@ USE HPlus;
 SELECT Customer.FirstName, Customer.LastName, Orders.OrderID
 FROM Customer
 LEFT JOIN Orders ON Customer.CustomerID = Orders.CustomerID;
+
+USE HPlus;
+
+SELECT Orders.OrderID, Salesperson.LastName, Salesperson.FirstName
+FROM Orders
+RIGHT JOIN Salesperson ON Orders.SalespersonID = Salesperson.SalespersonID;
