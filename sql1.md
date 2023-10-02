@@ -4,9 +4,11 @@ SQL command on MySQL
 
 1.
 
+```sql
 use HPlus;
 
 SELECT * FROM Customer WHERE CustomerID = 974;
+```
 
 2.
 
