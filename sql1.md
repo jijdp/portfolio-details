@@ -69,3 +69,35 @@ USE HPlus;
 SELECT Orders.OrderID, Salesperson.LastName, Salesperson.FirstName
 FROM Orders
 RIGHT JOIN Salesperson ON Orders.SalespersonID = Salesperson.SalespersonID;
+
+11.
+USE HPlus;
+
+SELECT Customer.LastName, Orders.OrderID
+FROM Customer
+CROSS JOIN Orders;
+
+12.
+use HPlus;
+
+SELECT ProductName, MIN(Price) FROM Product GROUP BY ProductName;
+
+13.
+use HPlus;
+
+SELECT FirstName, LastName FROM Salesperson WHERE FirstName LIKE 'Ja%';
+
+14.
+use HPlus;
+
+SELECT COUNT(LastName), City FROM Customer GROUP BY City;
+
+15.
+use Hplus;
+
+CALL GetOrderByStatus('past due');
+
+16.
+use HPlus;
+
+SHOW INDEX FROM Salesperson;
