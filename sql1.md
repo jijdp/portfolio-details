@@ -1,4 +1,5 @@
 SQL command on MySQL
+
 1.Basic Create Database
 ![image]()
 
