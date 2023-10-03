@@ -1,6 +1,6 @@
 SQL command on MySQL
 
-Database HPlus from ...
+
 
 
 1.
