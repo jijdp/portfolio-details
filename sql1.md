@@ -26,8 +26,9 @@ SELECT OrderID, TotalDue, Status, CustomerID FROM Orders WHERE TotalDue > 300 AN
 use tutorial;
 
 INSERT INTO Customer (FirstName, LastName) VALUE ('Jidapa', 'Dee');
-![sql3](https://github.com/jijdp/portfolio-details/assets/138129390/00c1cbe7-f1c3-43b4-9f12-39df23676492)
 ```
+![sql3](https://github.com/jijdp/portfolio-details/assets/138129390/00c1cbe7-f1c3-43b4-9f12-39df23676492)
+
 4.
 ```sql
 use tutorial;
