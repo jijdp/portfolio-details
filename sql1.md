@@ -1,6 +1,6 @@
 SQL command on MySQL
 
-
+DB from 
 
 
 1.
