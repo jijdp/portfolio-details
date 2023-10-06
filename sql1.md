@@ -144,6 +144,7 @@ SHOW INDEX FROM Salesperson;
 ![sql16](https://github.com/jijdp/portfolio-details/assets/138129390/e7898b29-ae40-4e16-af7a-4cf3913e7333)
 
 Other Commands that not perform on MySQL but acknowledge
+
 17. AS
 18. /* /* to use as a comment
 
