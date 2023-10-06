@@ -9,3 +9,5 @@ Example of test cases for Sign up
 
 Example of test cases for Card & Cash
 ![j3](https://github.com/jijdp/portfolio-details/assets/138129390/5aa50885-5535-44ee-875a-6d973723531d)
+
+Test cases for setting and savings are also written. I will send all the test cases to the interviewer/hr/recruiter individually if requested.
