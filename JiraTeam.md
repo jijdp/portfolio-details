@@ -1,4 +1,5 @@
 # Writing Test Cases with Jira (Team project) Example
+This file will show how I write test cases and use Jira from studied Bootcamp course:
 
 Writing backlog request as a user
 ![jbacklog0](https://github.com/jijdp/portfolio-details/assets/138129390/a1e7c8f1-a507-4e5b-9ae7-312c4e2a7c71)
