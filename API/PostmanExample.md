@@ -1,4 +1,4 @@
-#API testing with Postman Example
+# API testing with Postman Example
 ## This file will preview the example of my API testing with Postman.
 What I have studied from bootcamp and other API's example testing :
 - use postman in various platform: Website, desktop application and VScode's extension.
