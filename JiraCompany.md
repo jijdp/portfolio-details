@@ -1,4 +1,4 @@
-Writing test cases with Jira (Company-managed project)
+## Writing test cases with Jira (Company-managed project)
 
 Adding components to categorize the issue
 ![jc1](https://github.com/jijdp/portfolio-details/assets/138129390/9510cf73-6e73-4d8c-8374-2f932fa1b013)
