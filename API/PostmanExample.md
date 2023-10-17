@@ -7,6 +7,7 @@ What I have studied from bootcamp and other API's example testing :
 - add variables/environments and essential tests for each request.
 - RUN manual and automated test for each collection/request.
 - Use and edit SNIPPETS in TESTS to get TEST RESULTS
+
 I also add the JSON files if you want to examine deeply this API project
 
 Here's some of the example:
