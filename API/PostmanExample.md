@@ -16,15 +16,15 @@ Here's some of the example:
 
 Action Reference from [ReqresAPI](https://reqres.in/)
 
-1) Use GET request to get list user
+1) Use GET to get List Users
 ![pm1](https://github.com/jijdp/portfolio-details/assets/138129390/4bfb0e1a-c793-4785-ae83-27d9b825d2a3)
 2) GET test results
 ![pm2](https://github.com/jijdp/portfolio-details/assets/138129390/f3efb207-7b43-40cb-9af5-2b3d0670e6b6)
-3) POST to create a user
+3) Use POST to Create a User
 ![pm3](https://github.com/jijdp/portfolio-details/assets/138129390/d50d40d0-0ccd-4a41-a628-fcd79e45db72)
 4) POST test results
 ![pm4](https://github.com/jijdp/portfolio-details/assets/138129390/fadcd97b-f0d8-4bf0-9cc3-f4ce2de99ba3)
-5) PUT to edit user 1
+5) Use PUT to Edit User 1
 ![pm5](https://github.com/jijdp/portfolio-details/assets/138129390/e2c4f646-e7d8-4874-ad47-3fb5b099acef)
 
  
