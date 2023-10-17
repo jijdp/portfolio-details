@@ -41,8 +41,3 @@ This collection will include how I get API KEY and TOKEN from Trello and add var
 Action Reference from [TrelloAPI](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions)
 Link to my files for the full projects, all requests and test results [myTrelloAPI JSON Files]()
  
-Here's some of the details of this collection:
-1) Use POST to Create a Board
-2) Use GET to Get a Board
-3) Use PUT to Update a Board
-4) Use DEL to Delete a Board
