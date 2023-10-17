@@ -16,10 +16,10 @@ Here's some of the example:
 
 1) Use GET request to get list user
 ![pm1](https://github.com/jijdp/portfolio-details/assets/138129390/74d90489-f9aa-4914-a123-652ee109717a)
-2) GET Test result
-3) POST to create a user
+2) GET test results
+4) POST to create a user
 ![pm3](https://github.com/jijdp/portfolio-details/assets/138129390/d50d40d0-0ccd-4a41-a628-fcd79e45db72)
-4) POST Test result
-5) PUT to edit user 1
+5) POST test results
+6) PUT to edit user 1
  
 ## Collection : myTrelloAPI
