@@ -1,6 +1,6 @@
 # API testing with Postman Example
 This file will preview the example of my API testing with Postman.
-What I have studied from bootcamp and other API's example testing :
+What I have studied from bootcamp and other tester's API testing projects :
 - use postman in various platform: Website, desktop application and VScode's extension.
 - use the common commands/requests in Postman (GET, POST, PUT, PATCH, DEL )
 - know how to get the API Key and TOKEN to access and get through the authentication.
@@ -42,3 +42,6 @@ Link to my files for the full projects, all requests and test results [myTrelloA
  
 Here's some of the details of this collection:
 1) Use POST to Create a Board
+2) Use GET to Get a Board
+3) Use PUT to Update a Board
+4) Use DEL to Delete a Board
