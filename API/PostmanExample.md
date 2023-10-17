@@ -30,10 +30,8 @@ Here's some of the details of this collection:
 ![pm3](https://github.com/jijdp/portfolio-details/assets/138129390/d50d40d0-0ccd-4a41-a628-fcd79e45db72)
 4) POST test results
 ![pm4](https://github.com/jijdp/portfolio-details/assets/138129390/fadcd97b-f0d8-4bf0-9cc3-f4ce2de99ba3)
-5) Use PUT to Edit User 1
-![pm5](https://github.com/jijdp/portfolio-details/assets/138129390/e2c4f646-e7d8-4874-ad47-3fb5b099acef)
 
- 
+
 ## Collection : myTrelloAPI
 
 This collection will include how I get API KEY and TOKEN from Trello and add variables : {{baseURL}} {{key}} {{token}} on Postman
