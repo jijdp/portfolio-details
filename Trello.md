@@ -4,7 +4,9 @@ This file will show how I use Trello from studied Bootcamp course:
 - Add a card and a description
 - Write Test Scenarios and Test Cases for these functionality
   - Regsitration / Sign up for mobile application
+  - Regsitration / Sign up for KFC application
   - Regsitration / Sign up for Facebook website
+  - Facebook login
   - Search functionality for Udemy website
 - Execute the test and change status
 
