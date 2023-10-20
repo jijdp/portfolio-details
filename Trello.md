@@ -11,3 +11,4 @@ This file will show how I use Trello from studied Bootcamp course:
 adapt and edit to be more suitable for Thai app and Thai user (such as country code in phone number)
 
 Trello's File for board, card and checklist [Trello's board](https://trello.com/b/xV6pa6Ji)
+![trello1](https://github.com/jijdp/portfolio-details/assets/138129390/675f7aed-cfa2-4b18-a146-d61902a91673)
