@@ -40,7 +40,7 @@ Login
     Input Text     id:username       usertestvjd@gmail.com
     Sleep          0.5
     Click Element  id:password
-    Input Text     id:password       123456Johnny#
+    Input Text     id:password       123456Bebell! (not real pw)
     Sleep          0.5
     Click Element  id:login-email-text
 #pizza
