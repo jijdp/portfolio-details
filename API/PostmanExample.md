@@ -18,7 +18,7 @@ This collection will show the basic request and test to use on Postman
 
 Action Reference from [ReqresAPI](https://reqres.in/)
 
-Link to my files for the full projects, all requests and test results [myReqresAPI JSON Files]()
+Link to my files for "the full projects, all requests and test results" [myReqresAPI JSON Files]()
 
 Here's some of the details of this collection:
 
