@@ -145,6 +145,6 @@ SHOW INDEX FROM Salesperson;
 
 Other Commands that not perform on MySQL but acknowledge
 
-17. AS
+17. AS to change column/field's name only at the moment when run the command ex: SELECT FirstName AS Customer_firstname, LastName FROM Customer;
 18. /* /* to use as a comment
 
